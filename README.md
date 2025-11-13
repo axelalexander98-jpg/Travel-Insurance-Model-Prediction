@@ -2,6 +2,8 @@
 
 A machine learning solution to predict travel insurance claim likelihood, enabling proactive risk management and optimized capital allocation.
 
+streamlit app: https://travel-insurance-model-prediction-jcdsbdgam09004-axel.streamlit.app
+
 ## 📋 Project Overview
 
 This project develops a predictive model to identify which travel insurance policyholders are most likely to submit claims. The solution helps insurance companies improve risk assessment, optimize capital reserves, and refine pricing strategies.
